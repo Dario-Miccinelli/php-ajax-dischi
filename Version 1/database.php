@@ -1,5 +1,7 @@
 <?php
 
+// Pensando fosse lo stesso ho preso i dati dal vecchio progetto vue ma poi mi sono accorto che nei nuovi dati sono presenti solo 6 poster invece che 8, nella parte 2 del progetto ho sistemato usando i nuovi dati
+
 $dischi = [   
 [      
     "poster" => "https://img.discogs.com/vknPDdrqRbT92pNRX0W4I5N91jg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1246953-1448927086-6590.jpeg.jpg",      
